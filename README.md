@@ -1,1 +1,1 @@
-Classification oproblem prediction using python and XGBoost classifier model.
+Classification problem prediction using python and XGBoost classifier model.
